@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385316878 source:c:\computer science\mitassignment1\helloworld.helloworldi\main.cpp
+	<iostream>
+
+1420334596 source:c:\computer science\mitassignment1\helloworld.helloworldi\src\helloworldi.cpp
+	"HelloWorldI.h"
+	<iostream>
+
+1420334187 c:\computer science\mitassignment1\helloworld.helloworldi\include\helloworldi.h
+

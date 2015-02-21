@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421597342 source:c:\computer science\mitassignment1\primenumbers\main.cpp
+	<iostream>
+	<math.h>
+
